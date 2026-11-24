@@ -1,16 +1,54 @@
-## Hi there 👋
+# Olá, eu sou o Murilo 👋
 
-<!--
-**murilovm01-beep/murilovm01-beep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de **Ciência da Computação na UFSM** e de **Jogos Digitais na UFN**, cursando as duas graduações ao mesmo tempo. Gosto de entender como as coisas funcionam por dentro, seja a lógica de um jogo ou como uma máquina interpreta o que a gente escreve.
 
-Here are some ideas to get you started:
+Atualmente, estou dividindo meu tempo entre dois projetos principais:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Jogo de TCC
+
+Atualmente sem nome, desenvolvido na **Unity** como Trabalho de Conclusão de Curso em Jogos Digitais.
+
+O jogador explora e tenta sobreviver uma cidade enfrentando um apcalipse gerado por um patógeno letal que transforma as pessoas em zumbis.
+
+O que está já foi feito/está sendo feito atualmente:
+
+- Movimentação top-down e colisão com o cenário;
+- Sistemas de gameplay de combate e interação;
+- Organização dos documentos de arquitetura de programação e de design.
+
+O que ainda será feito no futuro:
+
+- Modelos 3D e animações;
+- Texturas e UI;
+- Protótipo inicial jogável.
+
+**Tecnologias:** Unity · C#
+
+---
+
+## 🧠 Pesquisa: linguagem natural → ações espaciais em cenas 3D
+
+Projeto de pesquisa na **UFSM**, feito com uma professora orientadora.
+
+**A pergunta:** quando alguém diz *"pegue a caneca à esquerda do notebook e coloque atrás da caixa"*, como um sistema pode transformar essa frase em uma representação espacial e em ações dentro de um ambiente 3D? E quais abordagens funcionam melhor?
+
+### O que estou fazendo
+
+1. **Mapeamento sistemático** (seguindo as diretrizes de Petersen et al., 2015) de métodos e benchmarks de interpretação de instruções espaciais em linguagem natural em cenas 3D, publicados entre 2020 e 2026.
+2. **Avaliação de qualidade** dos artigos com um checklist de 7 critérios e uma **extração de dados padronizada** de 20 campos por artigo.
+3. **Estudo experimental comparativo** das abordagens levantadas.
+
+Esses sistemas não são comparáveis por um simples "% de acerto": cada um usa tarefas, dados e métricas diferentes. Boa parte do trabalho é definir **como comparar de forma justa**, olhando o tipo de instrução, a representação da cena, o tipo de saída (localização, manipulação, navegação) e o protocolo de avaliação.
+
+**Áreas:** NLP · Visão-Linguagem (VLMs) · Grounding espacial 3D · Revisão sistemática
+
+## Ferramentas com que trabalho
+
+`C` · `C#` · `JavaScript` · `SQL` · `GameMaker (GML)` · `Git` · `Linux` · `Unity` · `Python` · `3DS Max`
+
+## Contato
+
+- LinkedIn: `in/murilo-vargas-martins-10b348390`
+- E-mail: `murilovm@live.com`
