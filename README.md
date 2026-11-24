@@ -28,7 +28,7 @@ O que ainda será feito no futuro:
 
 ---
 
-## 🧠 Pesquisa: linguagem natural → ações espaciais em cenas 3D
+## Pesquisa: linguagem natural → ações espaciais em cenas 3D
 
 Projeto de pesquisa na **UFSM**, feito com uma professora orientadora.
 
