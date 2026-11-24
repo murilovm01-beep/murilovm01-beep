@@ -1,4 +1,4 @@
-# Olá, eu sou o Murilo 👋
+# Olá, eu sou o Murilo
 
 Estudante de **Ciência da Computação na UFSM** e de **Jogos Digitais na UFN**, cursando as duas graduações ao mesmo tempo. Gosto de entender como as coisas funcionam por dentro, seja a lógica de um jogo ou como uma máquina interpreta o que a gente escreve.
 
