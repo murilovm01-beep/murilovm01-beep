@@ -12,18 +12,6 @@ Atualmente sem nome, desenvolvido na **Unity** como Trabalho de Conclusão de Cu
 
 O jogador explora e tenta sobreviver uma cidade enfrentando um apcalipse gerado por um patógeno letal que transforma as pessoas em zumbis.
 
-O que está já foi feito/está sendo feito atualmente:
-
-- Movimentação top-down e colisão com o cenário;
-- Sistemas de gameplay de combate e interação;
-- Organização dos documentos de arquitetura de programação e de design.
-
-O que ainda será feito no futuro:
-
-- Modelos 3D e animações;
-- Texturas e UI;
-- Protótipo inicial jogável.
-
 **Tecnologias:** Unity · C#
 
 ---
